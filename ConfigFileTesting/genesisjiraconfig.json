@@ -1,0 +1,16 @@
+{
+  "Jira": {
+    "Url": "https://bestcompany.atlassian.net/",
+    "Token": "132768176238176238123123="
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "Audience": {
+    "ExpireMinutes_access_token": 10,
+    "ExpireMinutes_refresh_token": 20
+  }
+}
